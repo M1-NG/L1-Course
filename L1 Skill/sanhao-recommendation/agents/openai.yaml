@@ -1,0 +1,4 @@
+interface:
+  display_name: "三好一改推荐理由"
+  short_description: "读文章截图，按约110字的口语化格式输出可直接发群的推荐理由"
+  default_prompt: "使用 $sanhao-recommendation，根据我上传的文章截图写一段三好一改推荐理由。"

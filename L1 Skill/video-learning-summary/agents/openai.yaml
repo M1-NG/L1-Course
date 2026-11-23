@@ -1,0 +1,3 @@
+interface:
+  display_name: "视频学习总结"
+  short_description: "逐个阅读视频并生成中文 Markdown 总结"
